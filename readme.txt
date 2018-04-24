@@ -1,18 +1,18 @@
-1. cf ÊÇÊ²Ã´
+1. code install æ˜¯ä»€ä¹ˆ
 
-Code Factory ´úÂë¹¤³¡£¬ÓÃÓÚ¸÷ÖÖ´úÂëÉú³É£¬Ó¦ÓÃ³ÌÐò°²×°µÈ¡£
+ä»£ç å·¥åœºï¼Œç”¨äºŽå„ç§ä»£ç ç”Ÿæˆï¼Œåº”ç”¨ç¨‹åºå®‰è£…ç­‰ã€‚
 
-2. °²×° cf
+2. å®‰è£… cf
 
- - ½âÑ¹ cf.zip µ½ÈÎÒâÄ¿Â¼£¨Èç d:/cf£©£¬¿ÉÒÔ¿´µ½Ä¿Â¼ÖÐÓÐ bin, data, modules, package µÈÎÄ¼þ¼Ð£¨Èç d:/cf/bin, d:/cf/data µÈ£©
- - ÉèÖÃ»·¾³±äÁ¿£ºCFHOME=d:/cf £¨¸ù¾Ý°²×°Ä¿Â¼Ð´£¬×¢ÒâÓ¦¸ÃÊ¹ÓÃ / ¶ø²»ÊÇÊ¹ÓÃ \£©
- - ÉèÖÃ»·¾³±äÁ¿£ºPATH£¬ÔÚ PATH ×îÇ°Ãæ¼ÓÉÏ d:\cf\bin;****** £¨ÕâÀï ****** ±£³ÖÔ­Ñù£©
- - ´ò¿ªÃüÁîÐÐ£¬ÔËÐÐ cf version£¬Èç¹ûÄÜ¹»¿´µ½°æ±¾ºÅ£¬ÔòËµÃ÷ cf °²×°³É¹¦
+ - è§£åŽ‹ cf.zip åˆ°ä»»æ„ç›®å½•ï¼ˆå¦‚ d:/cfï¼‰ï¼Œå¯ä»¥çœ‹åˆ°ç›®å½•ä¸­æœ‰ bin, data, modules, package ç­‰æ–‡ä»¶å¤¹ï¼ˆå¦‚ d:/cf/bin, d:/cf/data ç­‰ï¼‰
+ - è®¾ç½®çŽ¯å¢ƒå˜é‡ï¼šCFHOME=d:/cf ï¼ˆæ ¹æ®å®‰è£…ç›®å½•å†™ï¼Œæ³¨æ„åº”è¯¥ä½¿ç”¨ / è€Œä¸æ˜¯ä½¿ç”¨ \ï¼‰
+ - è®¾ç½®çŽ¯å¢ƒå˜é‡ï¼šPATHï¼Œåœ¨ PATH æœ€å‰é¢åŠ ä¸Š d:\cf\bin;
+ - æ‰“å¼€å‘½ä»¤è¡Œï¼Œè¿è¡Œ cf versionï¼Œå¦‚æžœèƒ½å¤Ÿçœ‹åˆ°ç‰ˆæœ¬å·ï¼Œåˆ™è¯´æ˜Ž cf å®‰è£…æˆåŠŸ
  
-3. Ê¹ÓÃ cf °²×°Èí¼þ
+3. ä½¿ç”¨ cf å®‰è£…è½¯ä»¶
 
- - °²×° emacs
+ - å®‰è£… emacs
    cf install emacs
- - °²×° jdk64
+ - å®‰è£… jdk64
    cf install jdk64
    
