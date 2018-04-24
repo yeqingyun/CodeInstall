@@ -1,0 +1,1 @@
+@start "" D:\cf\data\scite\scite.exe %*
